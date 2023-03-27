@@ -22,7 +22,7 @@
             "description": "Get this from @BotFather XD"
         },
         "BOT_USERNAME": {
-            "description": "Your Bot Username which you sent to @BotFather (Without [@])"
+            "description": "Your Bot Username which sent to @BotFather (Without [@])"
         },
         "DB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789"
